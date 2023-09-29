@@ -1,0 +1,12 @@
+D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\bin\Release\net7.0\SharpMcAe.deps.json
+D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\bin\Release\net7.0\SharpMcAe.dll
+D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\bin\Release\net7.0\SharpMcAe.pdb
+D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Release\net7.0\SharpMcAe.csproj.AssemblyReference.cache
+D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Release\net7.0\SharpMcAe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Release\net7.0\SharpMcAe.AssemblyInfoInputs.cache
+D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Release\net7.0\SharpMcAe.AssemblyInfo.cs
+D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Release\net7.0\SharpMcAe.csproj.CoreCompileInputs.cache
+D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Release\net7.0\SharpMcAe.dll
+D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Release\net7.0\refint\SharpMcAe.dll
+D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Release\net7.0\SharpMcAe.pdb
+D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Release\net7.0\ref\SharpMcAe.dll
