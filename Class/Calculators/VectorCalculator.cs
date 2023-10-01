@@ -1,10 +1,8 @@
-﻿namespace SharpMcAe.Class.Calculators
-{
+﻿namespace SharpMcAe.Class.Calculators {
     /// <summary>
     /// 向量计算器
     /// </summary>
-    public static class VectorCalculator
-    {
+    public static class VectorCalculator {
         /// <summary>
         /// 向量计算 - 交叉乘积
         /// </summary>
@@ -12,10 +10,8 @@
         /// <param name="vector2">向量2</param>
         /// <returns></returns>
         /// <exception cref="ArgumentException"></exception>
-        public static List<double> Cross(this List<double> vector1, List<double> vector2)
-        {
-            if (vector1.Count != 3 || vector2.Count != 3)
-            {
+        public static List<double> Cross(this List<double> vector1, List<double> vector2) {
+            if (vector1.Count != 3 || vector2.Count != 3) {
                 throw new ArgumentException("Both vectors must have exactly 3 elements");
             }
 
@@ -35,10 +31,8 @@
         /// <param name="vector2">向量2</param>
         /// <returns></returns>
         /// <exception cref="ArgumentException"></exception>
-        public static List<double> Inner(this List<List<double>> a, List<List<double>> b)
-        {
-            if (a.Count != b.Count)
-            {
+        public static List<double> Inner(this List<List<double>> a, List<List<double>> b) {
+            if (a.Count != b.Count) {
                 throw new ArgumentException("Both vectors must have the same number of elements.");
             }
 
@@ -53,10 +47,8 @@
         /// <param name="vector2">向量2</param>
         /// <returns></returns>
         /// <exception cref="ArgumentException"></exception>
-        public static List<double> MatMul(this List<double> a, List<double> b)
-        {
-            if (a.Count != b.Count)
-            {
+        public static List<double> MatMul(this List<double> a, List<double> b) {
+            if (a.Count != b.Count) {
                 throw new ArgumentException("Both vectors must have the same number of elements");
             }
 

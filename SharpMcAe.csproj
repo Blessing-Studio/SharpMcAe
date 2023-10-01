@@ -4,5 +4,15 @@
 		<TargetFramework>net7.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
+		<Title>SharpMcAe</Title>
+		<PackageIcon>sharpmcae.png</PackageIcon>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Update="sharpmcae.png">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
+	</ItemGroup>
 </Project>

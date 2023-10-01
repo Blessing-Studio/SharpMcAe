@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SharpMcAe</id>
+    <version>1.0.0</version>
+    <title>SharpMcAe</title>
+    <authors>SharpMcAe</authors>
+    <icon>sharpmcae.png</icon>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\bin\Debug\net7.0\SharpMcAe.dll" target="lib\net7.0\SharpMcAe.dll" />
+    <file src="D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\sharpmcae.png" target="\sharpmcae.png" />
+  </files>
+</package>
