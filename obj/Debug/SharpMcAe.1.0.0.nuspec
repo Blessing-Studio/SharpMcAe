@@ -12,7 +12,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\bin\Debug\net7.0\SharpMcAe.dll" target="lib\net7.0\SharpMcAe.dll" />
-    <file src="D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\sharpmcae.png" target="\sharpmcae.png" />
+    <file src="D:\Github\SharpMcAe\bin\Debug\net7.0\SharpMcAe.dll" target="lib\net7.0\SharpMcAe.dll" />
+    <file src="D:\Github\SharpMcAe\sharpmcae.png" target="\sharpmcae.png" />
   </files>
 </package>

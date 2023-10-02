@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\w\\.nuget\\packages\\": {},
+    "C:\\Users\\21353\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\ICode\\C#\\SharpMcAe\\SharpMcAe\\SharpMcAe.csproj",
+      "projectUniqueName": "D:\\Github\\SharpMcAe\\SharpMcAe.csproj",
       "projectName": "SharpMcAe",
-      "projectPath": "D:\\Workspace\\ICode\\C#\\SharpMcAe\\SharpMcAe\\SharpMcAe.csproj",
-      "packagesPath": "C:\\Users\\w\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\ICode\\C#\\SharpMcAe\\SharpMcAe\\obj\\",
+      "projectPath": "D:\\Github\\SharpMcAe\\SharpMcAe.csproj",
+      "packagesPath": "C:\\Users\\21353\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\SharpMcAe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\w\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\21353\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

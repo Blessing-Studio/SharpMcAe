@@ -10,3 +10,14 @@ D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Debug\net7.0\SharpMcAe.dll
 D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Debug\net7.0\refint\SharpMcAe.dll
 D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Debug\net7.0\SharpMcAe.pdb
 D:\Workspace\ICode\C#\SharpMcAe\SharpMcAe\obj\Debug\net7.0\ref\SharpMcAe.dll
+D:\Github\SharpMcAe\bin\Debug\net7.0\SharpMcAe.deps.json
+D:\Github\SharpMcAe\bin\Debug\net7.0\SharpMcAe.dll
+D:\Github\SharpMcAe\bin\Debug\net7.0\SharpMcAe.pdb
+D:\Github\SharpMcAe\obj\Debug\net7.0\SharpMcAe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\SharpMcAe\obj\Debug\net7.0\SharpMcAe.AssemblyInfoInputs.cache
+D:\Github\SharpMcAe\obj\Debug\net7.0\SharpMcAe.AssemblyInfo.cs
+D:\Github\SharpMcAe\obj\Debug\net7.0\SharpMcAe.csproj.CoreCompileInputs.cache
+D:\Github\SharpMcAe\obj\Debug\net7.0\SharpMcAe.dll
+D:\Github\SharpMcAe\obj\Debug\net7.0\refint\SharpMcAe.dll
+D:\Github\SharpMcAe\obj\Debug\net7.0\SharpMcAe.pdb
+D:\Github\SharpMcAe\obj\Debug\net7.0\ref\SharpMcAe.dll
