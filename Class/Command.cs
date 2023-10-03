@@ -18,6 +18,12 @@ namespace SharpMcAe.Class {
 
         public string Block { get; set; }
 
+        public Command(double x, double y, double z) {
+            X = x;
+            Y = y;
+            Z = z;
+        }
+
         public Command(int tick, double x, double y, double z, string block, string mode = "replace") {
             Tick = tick;
             X = x;
