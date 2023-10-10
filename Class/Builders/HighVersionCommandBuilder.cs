@@ -136,22 +136,22 @@ namespace SharpMcAe.Class.Builders {
         public List<ColorBlockSpeedExpression> Commands { get; set; } = new();
 
         public static Tuple<double, double, double>? GetColor(string mode = "none", int customColor = 3) {
-            var ran = new Random();
+            var ran = new Random().NextDouble();
             List<List<double>> colorList = new()
             {
-                new(){1,1,0+0.1*ran.NextDouble()},
-                new(){1,0+0.1*ran.NextDouble(), 0+0.1*ran.NextDouble()},
-                new(){ 0 + 0.1 * ran.NextDouble(), 1, 0 + 0.1 * ran.NextDouble() },
-                new(){ 0 + 0.1 * ran.NextDouble(), 1, 1 },
-                new(){ 0 + 0.1 * ran.NextDouble(), 0 + 0.1 * ran.NextDouble(), 1 },
-                new(){1, 0 + 0.1 * ran.NextDouble(), 1 },
-                new(){ 1 - 0.1 * ran.NextDouble(), 0.4 },
+                new(){ 1, 1,0 + 0.1 * ran},
+                new(){ 1, 0 + 0.1 * ran, 0 + 0.1 * ran },
+                new(){ 0 + 0.1 * ran, 1, 0 + 0.1 * ran },
+                new(){ 0 + 0.1 * ran, 1, 1 },
+                new(){ 0 + 0.1 * ran, 0 + 0.1 * ran, 1 },
+                new(){ 1, 0 + 0.1 * ran, 1 },
+                new(){ 1 - 0.1 * ran, 0.4 },
                 new(){ 1, 0, 0.5 },
-                new(){ 0, 1 - 0.1 * ran.NextDouble(), 0.5 },
+                new(){ 0, 1 - 0.1 * ran, 0.5 },
                 new(){ 1, 0.3, 0 }
             };
             if (mode == "none") {
-                int g = (int)(colorList.Count * ran.NextDouble());
+                int g = (int)(colorList.Count * ran);
                 (double cr, double cg, double cb) = (colorList[g][0], colorList[g][1], colorList[g][2]);
                 return new(cr, cg, cb);
             } else if (mode == "custom") {

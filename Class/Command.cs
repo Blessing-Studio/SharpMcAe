@@ -14,9 +14,9 @@ namespace SharpMcAe.Class {
 
         public int Tick { get; set; }
 
-        public string Mode { get; set; }
+        public string? Mode { get; set; }
 
-        public string Block { get; set; }
+        public string? Block { get; set; }
 
         public Command(double x, double y, double z) {
             X = x;
